@@ -1,0 +1,21 @@
+{
+  "name": "ts-docker-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf ./dist/* ",
+    "build": "tsc ",
+    "start": "node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
