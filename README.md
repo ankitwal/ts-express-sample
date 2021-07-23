@@ -1,3 +1,4 @@
 # ts-express-sample
 Typescript Node JS Sample Project App
-From Article: https://www.ankitwal.com/blog/the-why-and-how-to-use-multi-stage-docker-builds
+
+From blog article: [The why and how of multi stage docker buils](https://www.ankitwal.com/blog/the-why-and-how-to-use-multi-stage-docker-builds)
